@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @evanrutledge1
+- 👋 Hi, I’m sussteve226
 - 👀 I’m interested in the Interent and Tech
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on nothing right now
