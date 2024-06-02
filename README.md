@@ -1,8 +1,8 @@
-- 👋 Hi, I’m sussteve226
+- 👋 Hi, I’m Evan
 - 👀 I’m interested in the Interent and Tech
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on nothing right now
-- 📫 How to reach me: X is @sussteve226
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on GR8BRIK (my site) right now
+- 📫 How to reach me: X is @susstevedev
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: idk
 
